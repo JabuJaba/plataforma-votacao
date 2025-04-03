@@ -1,8 +1,8 @@
 # Ignorar Virtual Environment
 env/
-.env
 
-# Ignorar arquivo de configuração local
+# Ignorar arquivo de configuração local e .env
+.env
 config/config.env
 
 # Outras sugestões úteis (opcional)
